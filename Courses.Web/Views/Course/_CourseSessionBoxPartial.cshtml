@@ -1,0 +1,35 @@
+﻿@using Courses.Web.Entities.Courses
+@using Courses.Web.Utilities.ImageHandler
+@model Courses.Web.Entities.Courses.CourseSession
+
+<div class="card mb-4">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        @if (!string.IsNullOrEmpty(Model.AdditionalDescription))
+        {
+            <p class="card-text">@Model.AdditionalDescription</p>
+        }
+        @if (Model.Course.CourseType == CourseType.Text)
+        {
+            @if (!string.IsNullOrEmpty(Model.Text))
+            {
+                <hr>
+                <div>
+                    @Html.Raw(Model.Text)
+                </div>
+            }
+        }
+        else if (Model.Course.CourseType == CourseType.Video)
+        {
+            if (!string.IsNullOrEmpty(Model.VideoFileName))
+            {
+                <hr>
+                <div class="w-100">
+                    <video controls="controls" class="w-100"
+                           src="@PathTools.GetStaticFilePath(StaticFilePath.Video, StaticFileType.Main, StaticFileUseCase.Show)@Model.VideoFileName">
+                    </video>
+                </div>
+            }
+        }
+    </div>
+</div>

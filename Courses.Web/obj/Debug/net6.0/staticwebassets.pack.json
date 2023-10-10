@@ -1,0 +1,1545 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\4095-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\4095-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\400-500.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\400-500.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\accordions.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\accordions.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\alerts.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\alerts.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\angular-daterangepicker.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\angular-daterangepicker.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\angular-slider.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\angular-slider.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\angular-treeview.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\angular-treeview.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\animations.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\animations.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\body.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\body.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\breadcrumbs.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\breadcrumbs.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\buttons.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\buttons.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\charts.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\charts.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\chat.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\chat.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\checkbox-radiobox.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\checkbox-radiobox.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\colorpicker.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\colorpicker.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\colors.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\colors.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\comment.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\comment.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\dashboard.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\dashboard.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\databoxes.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\databoxes.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\datepicker.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\datepicker.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\dropdowns.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\dropdowns.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\dropzone.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\dropzone.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\editors.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\editors.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\fonts.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\fonts.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\forms-inputs.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\forms-inputs.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\fullcalendar.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\fullcalendar.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\helpers.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\helpers.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\invoice.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\invoice.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\labels-badges.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\labels-badges.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\loading.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\loading.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\lockscreen.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\lockscreen.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\login.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\login.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\mail.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\mail.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\main-container.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\main-container.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\modals.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\modals.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\navbar.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\navbar.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\nestable-lists.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\nestable-lists.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\ng-tags-input.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\ng-tags-input.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\notifications.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\notifications.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\orders.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\orders.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\page-content.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\page-content.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\page-header-body.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\page-header-body.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\pagination.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\popovers.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\popovers.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\pricing.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\pricing.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\profile.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\profile.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\progressbars.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\progressbars.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\register.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\register.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\search-help-bar.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\search-help-bar.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\select2.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\select2.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\sidebar.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\sidebar.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\sliders.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\sliders.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\spaces.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\spaces.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\spinners.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\spinners.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\switches.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\switches.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\tables.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\tables.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\tabs.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\tabs.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\tagsinput.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\tagsinput.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\tasks.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\tasks.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\tickets.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\tickets.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\timeline.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\timeline.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\timepicker.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\timepicker.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\tooltips.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\tooltips.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\treeview.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\treeview.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\typography.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\typography.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\validator.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\validator.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\wells.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\wells.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\widget.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\widget.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-less\\wizards.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-less\\wizards.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond.css",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond.less",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\beyond.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\beyond.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\datatables.bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\datatables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\demo.less",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\demo.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\other-less\\LessHat.css",
+      "PackagePath": "staticwebassets\\assets\\css\\other-less\\LessHat.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\other-less\\lesshat.less",
+      "PackagePath": "staticwebassets\\assets\\css\\other-less\\lesshat.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\other-less\\lesshat.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\other-less\\lesshat.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\Blue.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\Blue.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\Blue.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\Blue.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\azure.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\azure.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\azure.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\azure.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\azure.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\azure.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\azure.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\azure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\black.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\black.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\black.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\black.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\black.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\black.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\black.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\black.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\blue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\blue.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkblue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkblue.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkblue.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkblue.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkblue.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkblue.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkblue.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkblue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkred.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkred.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkred.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkred.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkred.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkred.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\darkred.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\darkred.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\deepblue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\deepblue.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\deepblue.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\deepblue.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\deepblue.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\deepblue.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\deepblue.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\deepblue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\gray.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\gray.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\gray.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\gray.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\gray.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\gray.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\gray.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\gray.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\green.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\green.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\green.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\green.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\green.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\green.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\orange.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\orange.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\orange.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\orange.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\orange.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\orange.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\orange.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\pink.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\pink.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\pink.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\pink.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\pink.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\pink.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\pink.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\purple.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\purple.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\purple.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\purple.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\purple.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\purple.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\purple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\skins-mixins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\skins-mixins.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\skins-mixins.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\skins-mixins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\skins-mixins.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\skins-mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\skins-mixins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\skins-mixins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\teal.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\teal.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\teal.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\teal.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\teal.less",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\teal.less"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\skins\\teal.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\skins\\teal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\typicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\typicons.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\typicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\typicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\weather-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\defaults\\default.png",
+      "PackagePath": "staticwebassets\\assets\\defaults\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\BYekan.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BYekan.woff"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\WeatherIcons-Regular.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\WeatherIcons-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot@"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot@v=4.3.0",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot@v=4.3.0"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg@v=4.3.0.xml",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg@v=4.3.0.xml"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf@v=4.3.0",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf@v=4.3.0"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2@v=4.3.0",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2@v=4.3.0"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff@v=4.3.0",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff@v=4.3.0"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot@"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg.xml",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg.xml"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\typicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\typicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\typicons.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\typicons.eot@"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\typicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\typicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\typicons.svg.xml",
+      "PackagePath": "staticwebassets\\assets\\fonts\\typicons.svg.xml"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\typicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\typicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\typicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\typicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.eot@"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.svg.xml",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.svg.xml"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\angle-down.png",
+      "PackagePath": "staticwebassets\\assets\\img\\angle-down.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\app-45616.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app-45616.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\app.png",
+      "PackagePath": "staticwebassets\\assets\\img\\app.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\attach-blue.png",
+      "PackagePath": "staticwebassets\\assets\\img\\attach-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\attach-green.png",
+      "PackagePath": "staticwebassets\\assets\\img\\attach-green.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\attach-red.png",
+      "PackagePath": "staticwebassets\\assets\\img\\attach-red.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\attach-yellow.png",
+      "PackagePath": "staticwebassets\\assets\\img\\attach-yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\adam-jansen.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\adam-jansen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\bing.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\bing.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\divyia.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\divyia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\javi-jimenez.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\javi-jimenez.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\john-smith.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\john-smith.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\lee-munroe.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\lee-munroe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\matt-cheuvront.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\matt-cheuvront.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\nicolai-larson.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\nicolai-larson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\osvaldus-valutis.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\osvaldus-valutis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\sergey-azovskiy.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\sergey-azovskiy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\avatars\\stephanie-walter.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\stephanie-walter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\jquery.minicolors.png",
+      "PackagePath": "staticwebassets\\assets\\img\\jquery.minicolors.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\logo-inverted.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-inverted.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\logo-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\logo-solo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-solo.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\sort_asc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\sort_both.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\sort_desc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\temp1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\temp1.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\img\\tree-icons.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tree-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\beyond.js",
+      "PackagePath": "staticwebassets\\assets\\js\\beyond.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\beyond.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\beyond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\bootbox\\bootbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootbox\\bootbox.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\chartjs\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chartjs\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\chartjs\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\chartjs\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\easypiechart\\easypiechart-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\easypiechart\\easypiechart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\easypiechart\\jquery.easypiechart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\easypiechart\\jquery.easypiechart.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\easypiechart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\easypiechart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\easypiechart\\jquery.easypiechart.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\easypiechart\\jquery.easypiechart.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\flot-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\flot-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.axislabels.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.axislabels.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.categories.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.categories.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.crosshair.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.crosshair.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.fillbetween.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.fillbetween.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.orderbars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.orderbars.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.selection.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.selection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.stack.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.stack.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\flot\\jquery.flot.tooltip.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\flot\\jquery.flot.tooltip.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\morris\\morris-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\morris\\morris-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\morris\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\morris\\raphael-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\morris\\raphael-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\charts\\sparkline\\sparkline-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts\\sparkline\\sparkline-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\colorpicker\\jquery.minicolors.js",
+      "PackagePath": "staticwebassets\\assets\\js\\colorpicker\\jquery.minicolors.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\data.json",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\data.json"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\dataTables.bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\dataTables.bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\dataTables.tableTools.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\dataTables.tableTools.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\dataTables.tableTools.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\dataTables.tableTools.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\datatables-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\datatables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\datatables.tabletools.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatables.tabletools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\jquery.datatables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\jquery.datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datatable\\zeroclipboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\zeroclipboard.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datetime\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datetime\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datetime\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datetime\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datetime\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datetime\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\datetime\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datetime\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\editors\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editors\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\editors\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editors\\summernote\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\editors\\wysiwyg\\bootstrap-wysiwyg.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editors\\wysiwyg\\bootstrap-wysiwyg.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\editors\\wysiwyg\\jquery.hotkeys.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editors\\wysiwyg\\jquery.hotkeys.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\editors\\wysiwyg\\prettify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editors\\wysiwyg\\prettify.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\spinbox\\fuelux.spinbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\spinbox\\fuelux.spinbox.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\spinbox\\fuelux.spinbox.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\treeview\\tree-custom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\treeview\\tree-custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\treeview\\treeview-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\treeview\\treeview-init.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\wizard\\wizard-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\wizard\\wizard-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\wizard\\wizard-custom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\wizard\\wizard-custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fuelux\\wizard\\wizard-custom.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\fuelux\\wizard\\wizard-custom.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fullcalendar\\jquery-ui.custom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar\\jquery-ui.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\fullcalendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\inputmask\\jasny-bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\inputmask\\jasny-bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\inputmask\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\inputmask\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\jquery-ui-1.10.4.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui-1.10.4.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\assets\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\nestable\\jquery.nestable.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nestable\\jquery.nestable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\skins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\skins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\slider\\jqrangeslider\\jqallrangesliders-withruler-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slider\\jqrangeslider\\jqallrangesliders-withruler-min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\slider\\jquery.nouislider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slider\\jquery.nouislider.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\slimscroll\\jquery.slimscroll.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\slimscroll\\jquery.slimscroll.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\tagsinput\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tagsinput\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\textarea\\jquery.autosize.js",
+      "PackagePath": "staticwebassets\\assets\\js\\textarea\\jquery.autosize.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\textarea\\jquery.autosize.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\textarea\\jquery.autosize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\toastr\\toastr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\toastr\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\js\\validation\\bootstrapvalidator.js",
+      "PackagePath": "staticwebassets\\assets\\js\\validation\\bootstrapvalidator.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\sound\\alert.mp3",
+      "PackagePath": "staticwebassets\\assets\\sound\\alert.mp3"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\swf\\copy_csv_xls.swf",
+      "PackagePath": "staticwebassets\\assets\\swf\\copy_csv_xls.swf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\assets\\swf\\copy_csv_xls_pdf.swf",
+      "PackagePath": "staticwebassets\\assets\\swf\\copy_csv_xls_pdf.swf"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\custom-popup\\custom-popup-opener.js",
+      "PackagePath": "staticwebassets\\lib\\custom-popup\\custom-popup-opener.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\custom-popup\\custom-popup.js",
+      "PackagePath": "staticwebassets\\lib\\custom-popup\\custom-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\amirh\\OneDrive\\Desktop\\mr_olyanasab_courses(1)\\Courses.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Courses.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Courses.Web.props",
+      "PackagePath": "build\\Courses.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Courses.Web.props",
+      "PackagePath": "buildMultiTargeting\\Courses.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Courses.Web.props",
+      "PackagePath": "buildTransitive\\Courses.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

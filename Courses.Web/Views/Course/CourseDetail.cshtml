@@ -1,0 +1,78 @@
+﻿@using Courses.Web.Entities.Courses
+@using Courses.Web.Utilities.ImageHandler
+@model Courses.Web.Entities.Courses.Course
+@{
+    ViewData["Title"] = Model.Title;
+    var sessions = ViewData["AllSession"] as List<CourseSession>;
+}
+
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img class="card-img-top" src="@PathTools.GetStaticFilePath(StaticFilePath.Course, StaticFileType.Main, StaticFileUseCase.Show)@Model.Image" alt="@Model.Title">
+                <div class="card-body">
+                    <p class="card-text">
+                        @Html.Raw(Model.ShortDescription)
+                    </p>
+                </div>
+            </div>
+            @if (sessions != null && sessions.Any())
+            {
+                int index = 1;
+                <h4>Sessions</h4>
+                <ul class="list-group">
+                    @foreach (var session in sessions)
+                    {
+                        <li class="list-group-item" id="course-session-@session.Id">
+                            <span class="badge text-bg-secondary">@index</span>
+                            <span class="cursor-pointer" onclick="getSession(@session.Id)">@session.Title</span>
+                        </li>
+                        index++;
+                    }
+                </ul>
+            }
+        </div>
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Title</h5>
+                    <p class="card-text">
+                        @Html.Raw(Model.Description)
+                    </p>
+                </div>
+            </div>
+            <div id="course-session-box">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section ExtraFooterReferences
+{
+    <script>
+        function getSession(sessionId){
+            $.get('/courses/course-sessions/' + sessionId).then(function (res){
+                $(`span.text-bg-secondary`).removeClass('text-bg-success');
+                $(`span.cursor-pointer`).removeClass('text-success');
+                
+                $(`#course-session-${sessionId} span.text-bg-secondary`).addClass('text-bg-success');
+                $(`#course-session-${sessionId} span.cursor-pointer`).addClass('text-success');
+                $('#course-session-box').html(res);
+            });
+        }
+    
+    
+        @if (sessions != null && sessions.Any())
+        {
+            var firstSession = sessions.First();
+            <text>
+                 $(document).ready(function (){
+                     getSession(@firstSession.Id);
+                 });
+            </text>
+        }
+    </script>
+}
